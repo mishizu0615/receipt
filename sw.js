@@ -1,5 +1,5 @@
 // 更新したら VERSION を上げる
-const VERSION = "receipt-v1";
+const VERSION = "receipt-v2";
 const CORE = ["./", "index.html", "manifest.webmanifest", "vendor/html2canvas.min.js", "vendor/jspdf.umd.min.js",
   "icon-180.png", "icon-192.png", "icon-512.png"];
 
